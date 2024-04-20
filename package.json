@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "firebase-utils": "^1.1.3"
+  }
+}
